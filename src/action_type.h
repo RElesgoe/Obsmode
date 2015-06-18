@@ -1,0 +1,95 @@
+char* actionNames[] = {
+	"0X00",	//0X00
+	"0X01",
+	"0X02",
+	"0X03",
+	"0X04",
+	"0X05",	//0X05
+	"0X06",
+	"0X07",
+	"0X08",
+	"SELECT",
+	"SHIFTSELECT",	//0X0A
+	"SHIFTDESELECT",
+	"BUILD",
+	"VISION",
+	"ALLY",
+	"0X0F",	// Change Game Speed (Taiche)
+	"0X10",	//0X10
+	"0X11",
+	"0X12",
+	"HOTKEY",
+	"MOVE",
+	"ATTACK",	//0X15
+	"0X16",
+	"0X17",
+	"CANCEL",
+	"CANCELHATCH",
+	"STOP",	//0X1A
+	"0X1B",
+	"0X1C",
+	"0X1D",
+	"RETURNCARGO",
+	"TRAIN",
+	"CANCELTRAIN",	//CANCEL TRAIN
+	"CLOAK",	//CLOAK?
+	"DECLOAK",	//DECLOAK?
+	"HATCH",
+	"0X24",
+	"UNSIEGE",	//0X25
+	"SIEGE",
+	"ARM",
+	"UNLOADALL",
+	"UNLOAD",
+	"MERGEARCHON",	//0X2A
+	"HOLDPOSITION",
+	"BURROW",
+	"UNBURROW",
+	"CANCELNUKE",
+	"LIFT",
+	"RESEARCH",	//0X30
+	"0X31",
+	"UPGRADE",
+	"0X33",
+	"0X34",
+	"MORPH",	//0X35
+	"STIM",
+	"0X37",
+	"0X38",
+	"0X39",
+	"0X3A",	//0X3A
+	"0X3B",
+	"0X3C",
+	"0X3D",
+	"0X3E",
+	"0X3F",
+	"0X40",	//0X40
+	"0X41",
+	"0X42",
+	"0X43",
+	"0X44",
+	"0X45",	//0X45
+	"0X46",
+	"0X47",
+	"0X48",
+	"0X49",
+	"0X4A",	//0X4A
+	"0X4B",
+	"0X4C",
+	"0X4D",
+	"0X4E",
+	"0X4F",
+	"0X50",	//0X50
+	"0X51",
+	"0X52",
+	"0X53",
+	"0X54",
+	"0X55",
+	"0X56",
+	"LEAVEGAME",
+	"0X58",
+	"0X59",
+	"MERGEDARKARCHON",
+	"DESELECTAUTO",
+	"MAX_"
+};
